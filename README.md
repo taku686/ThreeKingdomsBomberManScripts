@@ -1,6 +1,7 @@
 # ThreeKingdomsBomberManScripts
 **キャラクター変更画面・武器装備画面**
-![ThreeKingdomBombermanUI2](https://user-images.githubusercontent.com/74074598/166137101-318fe93e-a1ba-4ada-98f0-008bba0c9c5e.gif)
+![ThreeKingdomBombermanUI3](https://user-images.githubusercontent.com/74074598/166137272-c4977a5f-cf1e-4fc4-9922-63a2b1205f68.gif)
+![ThreeKingdomBombermanUI4](https://user-images.githubusercontent.com/74074598/166137314-162e0d1e-a5dd-44d6-95b3-3418866379d7.gif)
 **Bachoのスキル１(エフェクトが当たればボムを消す)**
 ![Bachoスキル1](https://user-images.githubusercontent.com/74074598/133746138-7c6a1a44-29fc-405f-83cd-56d475790b27.gif)
 **Bachoのスキル２（エフェクトが当たればボムを爆発時間を待たずに爆破）**
